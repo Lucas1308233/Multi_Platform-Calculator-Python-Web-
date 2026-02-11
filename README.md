@@ -1,89 +1,88 @@
-🧮 Calculadora com Interface Gráfica em Python
+🧮 Multi Platform Calculator
+Python (Tkinter) + Web (HTML, CSS, JavaScript)
 
 
 
-📌 Sobre o Projeto
+Projeto de calculadora desenvolvido em duas plataformas diferentes, com foco em prática de lógica de programação e desenvolvimento de interfaces gráficas e web.
 
-Este projeto consiste em uma calculadora com interface gráfica desenvolvida em Python utilizando a biblioteca Tkinter.
+🌍 Acesse a Versão Online
 
-O desenvolvimento foi realizado seguindo etapas organizadas, com foco na prática de lógica de programação, manipulação de eventos e construção de interfaces gráficas.
+🔗 Use diretamente no navegador:
+👉 https://lucas1308233.github.io/Multi_Platform-Calculator-Python-Web-/
 
-🚀 Etapas do Desenvolvimento
-1️⃣ Estrutura Inicial
+✔ Não precisa instalar nada
+✔ Funciona em qualquer navegador moderno
 
-Criação da janela principal com Tkinter
+🖥️ Versão Desktop (Python + Tkinter)
+📌 Requisitos
 
-Definição de cores e layout base
+Python 3 instalado
+Download oficial: https://www.python.org/downloads/
 
-Configuração do campo de exibição dos números
+▶ Como executar localmente
 
-2️⃣ Criação dos Botões
+1️⃣ Clone o repositório:
 
-Botões numéricos (0–9)
+git clone https://github.com/lucas1308233/Multi_Platform-Calculator-Python-Web-.git
 
-Botões de operações (+, -, *, /)
 
-Botão de limpar (C)
+2️⃣ Entre na pasta do projeto:
 
-Botão de resultado (=)
+cd Multi_Platform-Calculator-Python-Web-
 
-Botão de ponto decimal (.)
 
-3️⃣ Implementação da Lógica
+3️⃣ Execute o programa:
 
-Função para capturar valores digitados
+python calculadora.py
 
-Armazenamento da expressão matemática
 
-Função para realizar o cálculo
+A interface gráfica será aberta automaticamente.
 
-Tratamento básico de erros
-
-4️⃣ Organização do Código
-
-Separação de funções
-
-Padronização de nomes
-
-Melhorias na interface visual
-
-✨ Funcionalidades
-
-➕ Adição
-
-➖ Subtração
-
-✖ Multiplicação
-
-➗ Divisão
-
-📊 Porcentagem
-
-🔢 Suporte a números decimais
-
-🧹 Limpeza de tela
-
-🛠 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 
 Python 3
 
 Tkinter
 
-VS Code
+HTML5
 
-🎯 Objetivo
+CSS3
 
-Praticar:
+JavaScript (ES6)
 
-Lógica de programação
+📌 Funcionalidades
 
-Desenvolvimento de aplicações desktop
+✔ Operações básicas (+, −, ×, ÷)
+✔ Cálculo de porcentagem (%)
+✔ Interface moderna e alinhada
+✔ Versão Web responsiva
+✔ Versão Desktop com interface gráfica
 
-Manipulação de eventos
+🎯 Objetivo do Projeto
 
-Criação de interfaces gráficas
+Este projeto foi desenvolvido com o objetivo de:
+
+Praticar lógica de programação
+
+Desenvolver interfaces gráficas com Tkinter
+
+Criar uma versão web interativa
+
+Aplicar versionamento com Git e GitHub
+
+Publicar aplicação com GitHub Pages
+
+📷 Demonstração
+
+Você pode adicionar aqui uma imagem da calculadora funcionando.
+
+Exemplo:
+
+![Preview da Calculadora](imagem.png)
+
+
+(Se quiser eu te ensino a tirar um print bonito e deixar profissional.)
 
 👨‍💻 Autor
 
-LucasZi 🚀
-Estudante de Desenvolvimento de Software
+Desenvolvido por Lucas
