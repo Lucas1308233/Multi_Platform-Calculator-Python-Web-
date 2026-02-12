@@ -36,7 +36,6 @@ cd Multi_Platform-Calculator-Python-Web-
 python calculadora.py
 
 
-A interface gráfica será aberta automaticamente.
 
 🚀 Tecnologias Utilizadas
 
@@ -74,14 +73,12 @@ Publicar aplicação com GitHub Pages
 
 📷 Demonstração
 
-Você pode adicionar aqui uma imagem da calculadora funcionando.
+
 
 Exemplo:
 
 ![Preview da Calculadora](imagem.png)
 
-
-(Se quiser eu te ensino a tirar um print bonito e deixar profissional.)
 
 👨‍💻 Autor
 
